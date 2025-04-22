@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Áo Thun Nam Basic",
+    "price": 149000,
+    "description": "Áo thun nam chất liệu cotton co giãn thoải mái, phù hợp đi chơi hoặc mặc ở nhà.",
+    "stock": 120,
+    "category": "Thời trang nam",
+    "status": "available",
+    "image": "ao-thun-nam.jpg"
+  },
+  {
+    "name": "Giày Sneaker Trắng",
+    "price": 499000,
+    "description": "Giày sneaker trắng phong cách hiện đại, dễ phối đồ.",
+    "stock": 60,
+    "category": "Giày dép",
+    "status": "available",
+    "image": "sneaker-trang.jpg"
+  },
+  {
+    "name": "Túi Xách Da Nữ",
+    "price": 899000,
+    "description": "Túi xách làm từ da PU cao cấp, thiết kế sang trọng, lịch sự.",
+    "stock": 35,
+    "category": "Phụ kiện nữ",
+    "status": "available",
+    "image": "tui-xach-da.jpg"
+  },
+  {
+    "name": "Tai Nghe Bluetooth",
+    "price": 299000,
+    "description": "Tai nghe bluetooth không dây, âm thanh sống động, thời lượng pin 6h.",
+    "stock": 80,
+    "category": "Điện tử",
+    "status": "coming soon",
+    "image": "tai-nghe-bluetooth.jpg"
+  },
+  {
+    "name": "Áo Khoác Hoodie",
+    "price": 349000,
+    "description": "Áo khoác hoodie giữ ấm, chất liệu dày dặn, phong cách Hàn Quốc.",
+    "stock": 50,
+    "category": "Thời trang nam",
+    "status": "unavailable",
+    "image": "ao-khoac-hoodie.jpg"
+  }
+]

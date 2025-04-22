@@ -1,0 +1,22 @@
+{
+  "_id": "661d7a0b1234567890abcdef",
+  "date": "2025-04-15",
+  "totalOrders": 12,
+  "totalRevenue": 135000000,
+  "totalProductsSold": 18,
+  "topProducts": [
+    {
+      "productId": "661d7a0b1234567890abcd01",
+      "productName": "Laptop ASUS ROG Zephyrus G14",
+      "quantitySold": 5,
+      "revenue": 160000000
+    },
+    {
+      "productId": "661d7a0b1234567890abcd02",
+      "productName": "Card đồ họa NVIDIA RTX 4070",
+      "quantitySold": 3,
+      "revenue": 45000000
+    }
+  ],
+  "createdAt": "2025-04-16T00:00:00Z"
+}
